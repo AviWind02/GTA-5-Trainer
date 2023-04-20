@@ -1,6 +1,6 @@
 # Avi's Trainer
 
-This is a GTA 5 trainer designed to help you learn how to make scripts for GTA 5. It's still in alpha development, but we hope to make it a powerful tool for anyone interested in creating mods and scripts for this popular game.
+This is a GTA 5 trainer designed to make scripts for GTA 5. It's still in alpha development, but I hope to make it a easy to use tool for anyone interested in creating mods and scripts for this game.
 
 ## Features
 
