@@ -4,7 +4,7 @@ This is a GTA 5 trainer designed to make scripts for GTA 5. It's still in alpha 
 
 ## Features
 
-At this time, Avi's Trainer is still under development, and its features are subject to change. Here are some of the features we're currently working on:
+At this time, Avi's Trainer is still under development(Not use-able), and its features are subject to change. Here are some of the features we're currently working on:
 
 - Easy-to-use interface for creating and managing scripts
 
