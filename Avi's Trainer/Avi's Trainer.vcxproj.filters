@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Script">
+      <UniqueIdentifier>{5febb5ce-e857-42ae-9235-17138a2ffcd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{163b5471-d45d-4619-a8b2-3e58a659e2dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{9ff7a215-3e5c-47ce-a0cd-36da1219c594}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Control">
+      <UniqueIdentifier>{09f29cda-3d81-4cab-913f-b4b2cd5a7c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{8f6c5900-36f5-4bf8-995f-59864eeb175f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util\inc">
+      <UniqueIdentifier>{ebb14179-b939-461f-b981-823adbbb0ffb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="scripts\script.cpp">
+      <Filter>Script</Filter>
+    </ClCompile>
+    <ClCompile Include="Main\main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="scripts\script.h">
+      <Filter>Script</Filter>
+    </ClInclude>
+    <ClInclude Include="util\common.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\enums.h">
+      <Filter>util\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\main.h">
+      <Filter>util\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\nativeCaller.h">
+      <Filter>util\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\natives.h">
+      <Filter>util\inc</Filter>
+    </ClInclude>
+    <ClInclude Include="inc\types.h">
+      <Filter>util\inc</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
